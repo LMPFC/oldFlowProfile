@@ -8,7 +8,7 @@ close all
 pm = 10;                    % Magic magnet number
 mu0 = 4*pi*1e-7;            % Permittivity of free space
 
-
+% Test to see if cluster saved github info
 %% Magnetic field generation
 % radialRes = 400;
 % lengthRes = 800;
